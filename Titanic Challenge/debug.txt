@@ -1,0 +1,2614 @@
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    2
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    1
+Name: Embarked, dtype: object
+    0
+Name: Embarked, dtype: object

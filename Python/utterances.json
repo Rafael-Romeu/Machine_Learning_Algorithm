@@ -1,0 +1,3222 @@
+[
+    {
+        "text": "Tenho pedido pra fazer",
+        "intent": "Place new order",
+        "entities": []
+    },
+    {
+        "text": "Será que vcs conseguem tirar um pedido pra mim?",
+        "intent": "Place new order",
+        "entities": []
+    },
+    {
+        "text": "Só preciso de cerveja de lata",
+        "intent": "Place new order",
+        "entities": []
+    },
+    {
+        "text": "Fazer pedido",
+        "intent": "Place new order",
+        "entities": []
+    },
+    {
+        "text": "Da tempo de eu fazer um pedido",
+        "intent": "Place new order",
+        "entities": []
+    },
+    {
+        "text": "fazer pedido urgente",
+        "intent": "Place new order",
+        "entities": []
+    },
+    {
+        "text": "Estou precisando fazer compras",
+        "intent": "Place new order",
+        "entities": []
+    },
+    {
+        "text": "Eu quria faze me pedido",
+        "intent": "Place new order",
+        "entities": []
+    },
+    {
+        "text": "Como proceder para fazer compras?",
+        "intent": "Place new order",
+        "entities": []
+    },
+    {
+        "text": "Você vende produtos da AmBev?",
+        "intent": "Place new order",
+        "entities": []
+    },
+    {
+        "text": "Fazer um Pedido",
+        "intent": "Place new order",
+        "entities": []
+    },
+    {
+        "text": "gostaria de fazer um pedido",
+        "intent": "Place new order",
+        "entities": []
+    },
+    {
+        "text": "quero fazer pedido",
+        "intent": "Place new order",
+        "entities": []
+    },
+    {
+        "text": "quero comprar cerveja",
+        "intent": "Place new order",
+        "entities": []
+    },
+    {
+        "text": "quero comprar refrigerante",
+        "intent": "Place new order",
+        "entities": []
+    },
+    {
+        "text": "quero comprar produtos",
+        "intent": "Place new order",
+        "entities": []
+    },
+    {
+        "text": "vcs vendem produtos por aqui?",
+        "intent": "Place new order",
+        "entities": []
+    },
+    {
+        "text": "aceitam pedidos por aqui?",
+        "intent": "Place new order",
+        "entities": []
+    },
+    {
+        "text": "posso efetuar pedidos por aqui?",
+        "intent": "Place new order",
+        "entities": []
+    },
+    {
+        "text": "como posso fazer pedidos?",
+        "intent": "Place new order",
+        "entities": []
+    },
+    {
+        "text": "Quero falar com um atendente",
+        "intent": "Transfer to agent",
+        "entities": []
+    },
+    {
+        "text": "Pode me transferir para uma pessoa?",
+        "intent": "Transfer to agent",
+        "entities": []
+    },
+    {
+        "text": "Me transfere para um atendente humano",
+        "intent": "Transfer to agent",
+        "entities": []
+    },
+    {
+        "text": "Quero falar com o supervisor",
+        "intent": "Transfer to agent",
+        "entities": []
+    },
+    {
+        "text": "Posso falar com um atendente?",
+        "intent": "Transfer to agent",
+        "entities": []
+    },
+    {
+        "text": "Posso falar com alguem?",
+        "intent": "Transfer to agent",
+        "entities": []
+    },
+    {
+        "text": "quero fala com pessoa",
+        "intent": "Transfer to agent",
+        "entities": []
+    },
+    {
+        "text": "Chat with live atendente",
+        "intent": "Transfer to agent",
+        "entities": []
+    },
+    {
+        "text": "quero falar com atendente",
+        "intent": "Transfer to agent",
+        "entities": []
+    },
+    {
+        "text": "me transfere para um atendente",
+        "intent": "Transfer to agent",
+        "entities": []
+    },
+    {
+        "text": "Quero fl com um atendente",
+        "intent": "Transfer to agent",
+        "entities": []
+    },
+    {
+        "text": "Gostaria q entrasse alguém em contato comigo",
+        "intent": "Transfer to agent",
+        "entities": []
+    },
+    {
+        "text": "Falar com atendente",
+        "intent": "Transfer to agent",
+        "entities": []
+    },
+    {
+        "text": "Desejo ser atendida com atendente",
+        "intent": "Transfer to agent",
+        "entities": []
+    },
+    {
+        "text": "Me direcione p um atendente",
+        "intent": "Transfer to agent",
+        "entities": []
+    },
+    {
+        "text": "quero falar com um humano",
+        "intent": "Transfer to agent",
+        "entities": []
+    },
+    {
+        "text": "Preciso de um atendente humano",
+        "intent": "Transfer to agent",
+        "entities": []
+    },
+    {
+        "text": "Assistente humano",
+        "intent": "Transfer to agent",
+        "entities": []
+    },
+    {
+        "text": "Estou aguardando o atendente humano que vai me atender",
+        "intent": "Transfer to agent",
+        "entities": []
+    },
+    {
+        "text": "Estou aguardando o atendente humano que vai me atender Gostaria que entrasse em contato",
+        "intent": "Transfer to agent",
+        "entities": []
+    },
+    {
+        "text": "Gostaria que entrasse em contato",
+        "intent": "Transfer to agent",
+        "entities": []
+    },
+    {
+        "text": "Fico no aquardo que um atendente entre em contato comigo",
+        "intent": "Transfer to agent",
+        "entities": []
+    },
+    {
+        "text": "Quero falar com um atendimento",
+        "intent": "Transfer to agent",
+        "entities": []
+    },
+    {
+        "text": "Preciso falar com um responsável",
+        "intent": "Transfer to agent",
+        "entities": []
+    },
+    {
+        "text": "Atendente entra em contato",
+        "intent": "Transfer to agent",
+        "entities": []
+    },
+    {
+        "text": "Põe alguém para falar comigo",
+        "intent": "Transfer to agent",
+        "entities": []
+    },
+    {
+        "text": "Me passa pra um atendente",
+        "intent": "Transfer to agent",
+        "entities": []
+    },
+    {
+        "text": "quero falar com uma pessoa de verdade",
+        "intent": "Transfer to agent",
+        "entities": []
+    },
+    {
+        "text": "Me passa pro atendente humano",
+        "intent": "Transfer to agent",
+        "entities": []
+    },
+    {
+        "text": "Me passa para um atendente humano",
+        "intent": "Transfer to agent",
+        "entities": []
+    },
+    {
+        "text": "Cadê o atendente humano?",
+        "intent": "Transfer to agent",
+        "entities": []
+    },
+    {
+        "text": "Atendimento humano",
+        "intent": "Transfer to agent",
+        "entities": []
+    },
+    {
+        "text": "atendente humano",
+        "intent": "Transfer to agent",
+        "entities": []
+    },
+    {
+        "text": "Gostaria de falar com representantes",
+        "intent": "Transfer to agent",
+        "entities": []
+    },
+    {
+        "text": "Falar com alguém da empresa",
+        "intent": "Transfer to agent",
+        "entities": []
+    },
+    {
+        "text": "freezer não está gelando",
+        "intent": "Freezer not cooling",
+        "entities": []
+    },
+    {
+        "text": "não está gelando",
+        "intent": "Freezer not cooling",
+        "entities": []
+    },
+    {
+        "text": "não gela",
+        "intent": "Freezer not cooling",
+        "entities": []
+    },
+    {
+        "text": "problemas de gelar",
+        "intent": "Freezer not cooling",
+        "entities": []
+    },
+    {
+        "text": "não está resfriando",
+        "intent": "Freezer not cooling",
+        "entities": []
+    },
+    {
+        "text": "freezer não está resfriando",
+        "intent": "Freezer not cooling",
+        "entities": []
+    },
+    {
+        "text": "Não está produzindo gelo bebidas estão quentes",
+        "intent": "Freezer not cooling",
+        "entities": []
+    },
+    {
+        "text": "parou de resfriar",
+        "intent": "Freezer not cooling",
+        "entities": []
+    },
+    {
+        "text": "minha geladeira nao gela",
+        "intent": "Freezer not cooling",
+        "entities": []
+    },
+    {
+        "text": "minha geladeira nao esta gelando",
+        "intent": "Freezer not cooling",
+        "entities": []
+    },
+    {
+        "text": "Freezer Não está resfriando",
+        "intent": "Freezer does not turn on",
+        "entities": []
+    },
+    {
+        "text": "Minha geladeira não liga",
+        "intent": "Freezer does not turn on",
+        "entities": []
+    },
+    {
+        "text": "freezer não liga",
+        "intent": "Freezer does not turn on",
+        "entities": []
+    },
+    {
+        "text": "freezer queimou",
+        "intent": "Freezer does not turn on",
+        "entities": []
+    },
+    {
+        "text": "geladeira queimou",
+        "intent": "Freezer does not turn on",
+        "entities": []
+    },
+    {
+        "text": "meu feezer está queimado",
+        "intent": "Freezer does not turn on",
+        "entities": []
+    },
+    {
+        "text": "geladeira está queimada",
+        "intent": "Freezer does not turn on",
+        "entities": []
+    },
+    {
+        "text": "geladeira não está ligando",
+        "intent": "Freezer does not turn on",
+        "entities": []
+    },
+    {
+        "text": "geladeira não liga",
+        "intent": "Freezer does not turn on",
+        "entities": []
+    },
+    {
+        "text": "Freezer com barulho excessivo",
+        "intent": "Freezer making noises",
+        "entities": []
+    },
+    {
+        "text": "com algum barulho",
+        "intent": "Freezer making noises",
+        "entities": []
+    },
+    {
+        "text": "com barulho",
+        "intent": "Freezer making noises",
+        "entities": []
+    },
+    {
+        "text": "com barulho estranho",
+        "intent": "Freezer making noises",
+        "entities": []
+    },
+    {
+        "text": "está com borracha solta",
+        "intent": "Freezer door rubbers",
+        "entities": []
+    },
+    {
+        "text": "trocar borracha da porta",
+        "intent": "Freezer door rubbers",
+        "entities": []
+    },
+    {
+        "text": "substiuir borracha da porta",
+        "intent": "Freezer door rubbers",
+        "entities": []
+    },
+    {
+        "text": "borracha da porta caiu",
+        "intent": "Freezer door rubbers",
+        "entities": []
+    },
+    {
+        "text": "caiu a borracha da porta",
+        "intent": "Freezer door rubbers",
+        "entities": []
+    },
+    {
+        "text": "borracha da porta não fecha",
+        "intent": "Freezer door rubbers",
+        "entities": []
+    },
+    {
+        "text": "vedação da borracha não fecha",
+        "intent": "Freezer door rubbers",
+        "entities": []
+    },
+    {
+        "text": "a borracha caiu",
+        "intent": "Freezer door rubbers",
+        "entities": []
+    },
+    {
+        "text": "caiu a borracha",
+        "intent": "Freezer door rubbers",
+        "entities": []
+    },
+    {
+        "text": "geladeira vazando água",
+        "intent": "Freezer door rubbers",
+        "entities": []
+    },
+    {
+        "text": "Preciso da manutenção de lâmpada",
+        "intent": "Freezer lights burned",
+        "entities": []
+    },
+    {
+        "text": "lâmpada não acende",
+        "intent": "Freezer lights burned",
+        "entities": []
+    },
+    {
+        "text": "queimou a lâmpada",
+        "intent": "Freezer lights burned",
+        "entities": []
+    },
+    {
+        "text": "lâmpada está queimada",
+        "intent": "Freezer lights burned",
+        "entities": []
+    },
+    {
+        "text": "lâmpada queimou",
+        "intent": "Freezer lights burned",
+        "entities": []
+    },
+    {
+        "text": "lâmpada da geladeira está queimada",
+        "intent": "Freezer lights burned",
+        "entities": []
+    },
+    {
+        "text": "lâmpada da geladeira queimou",
+        "intent": "Freezer lights burned",
+        "entities": []
+    },
+    {
+        "text": "queimou a lâmpada da geladeira",
+        "intent": "Freezer lights burned",
+        "entities": []
+    },
+    {
+        "text": "Luzes queimaram",
+        "intent": "Freezer lights burned",
+        "entities": []
+    },
+    {
+        "text": "resfriando demais",
+        "intent": "Freezer cooling too much",
+        "entities": []
+    },
+    {
+        "text": "produtos estão congelando",
+        "intent": "Freezer cooling too much",
+        "entities": []
+    },
+    {
+        "text": "cervejas estão congelando",
+        "intent": "Freezer cooling too much",
+        "entities": []
+    },
+    {
+        "text": "cerveja está congelando",
+        "intent": "Freezer cooling too much",
+        "entities": []
+    },
+    {
+        "text": "como regulo a temperatura",
+        "intent": "Freezer cooling too much",
+        "entities": []
+    },
+    {
+        "text": "congelando as cervejas",
+        "intent": "Freezer cooling too much",
+        "entities": []
+    },
+    {
+        "text": "congelando as bebidas",
+        "intent": "Freezer cooling too much",
+        "entities": []
+    },
+    {
+        "text": "congelando os produtos",
+        "intent": "Freezer cooling too much",
+        "entities": []
+    },
+    {
+        "text": "geladeira está congelando as cervejas",
+        "intent": "Freezer cooling too much",
+        "entities": []
+    },
+    {
+        "text": "minha geladeira tá com problema",
+        "intent": "Freezer not working",
+        "entities": []
+    },
+    {
+        "text": "minha geladeira  está estranha",
+        "intent": "Freezer not working",
+        "entities": []
+    },
+    {
+        "text": "Minha geladeira quebrou",
+        "intent": "Freezer not working",
+        "entities": []
+    },
+    {
+        "text": "Meu freezer está quebrado",
+        "intent": "Freezer not working",
+        "entities": []
+    },
+    {
+        "text": "Quero agendar uma visita técnica",
+        "intent": "Freezer not working",
+        "entities": []
+    },
+    {
+        "text": "Manda um técnico",
+        "intent": "Freezer not working",
+        "entities": []
+    },
+    {
+        "text": "Agenda uma visita técnica",
+        "intent": "Freezer not working",
+        "entities": []
+    },
+    {
+        "text": "Estou com problema na minha geladeira",
+        "intent": "Freezer not working",
+        "entities": []
+    },
+    {
+        "text": "meu equipamento está quebrado",
+        "intent": "Freezer not working",
+        "entities": []
+    },
+    {
+        "text": "Minha geladeira ta c problema",
+        "intent": "Freezer not working",
+        "entities": []
+    },
+    {
+        "text": "Preciso que o técnico compareça no local",
+        "intent": "Freezer not working",
+        "entities": []
+    },
+    {
+        "text": "Minha geladeira está em péssimo estado",
+        "intent": "Freezer not working",
+        "entities": []
+    },
+    {
+        "text": "Estou esperando a troca da minha geladeira",
+        "intent": "Freezer not working",
+        "entities": []
+    },
+    {
+        "text": "Troquem minha geladeira",
+        "intent": "Freezer not working",
+        "entities": []
+    },
+    {
+        "text": "Manutenção no refrigerador",
+        "intent": "Freezer not working",
+        "entities": []
+    },
+    {
+        "text": "eu quero que arrume a minha geladeira",
+        "intent": "Freezer not working",
+        "entities": []
+    },
+    {
+        "text": "Arrumar a geladeira",
+        "intent": "Freezer not working",
+        "entities": []
+    },
+    {
+        "text": "minha geladeira está com poblemao",
+        "intent": "Freezer not working",
+        "entities": []
+    },
+    {
+        "text": "Minha geladeira está quebranda",
+        "intent": "Freezer not working",
+        "entities": []
+    },
+    {
+        "text": "Minha geladeira está com defeito",
+        "intent": "Freezer not working",
+        "entities": []
+    },
+    {
+        "text": "Estou com Uma geladeira com defeito",
+        "intent": "Freezer not working",
+        "entities": []
+    },
+    {
+        "text": "Minha geladeira esta com poblemas",
+        "intent": "Freezer not working",
+        "entities": []
+    },
+    {
+        "text": "pode consertar a geladeira q tá dando defeito",
+        "intent": "Freezer not working",
+        "entities": []
+    },
+    {
+        "text": "Para assistencia tecnica do freezer",
+        "intent": "Freezer not working",
+        "entities": []
+    },
+    {
+        "text": "Preciso arrumar uma geladeira",
+        "intent": "Freezer not working",
+        "entities": []
+    },
+    {
+        "text": "Estou retornando para pedir o conserto da geladeira.",
+        "intent": "Freezer not working",
+        "entities": []
+    },
+    {
+        "text": "arrumar o freezer",
+        "intent": "Freezer not working",
+        "entities": []
+    },
+    {
+        "text": "geladeira não está pegando",
+        "intent": "Freezer not working",
+        "entities": []
+    },
+    {
+        "text": "geladeira não está ligando",
+        "intent": "Freezer not working",
+        "entities": []
+    },
+    {
+        "text": "geladeira está com péssimo funcionamento",
+        "intent": "Freezer not working",
+        "entities": []
+    },
+    {
+        "text": "meu frizer paro",
+        "intent": "Freezer not working",
+        "entities": []
+    },
+    {
+        "text": "frizer paro de funcionar",
+        "intent": "Freezer not working",
+        "entities": []
+    },
+    {
+        "text": "abrir chamado geladeira cerveja",
+        "intent": "Freezer not working",
+        "entities": []
+    },
+    {
+        "text": "quero trocar minha geladeira",
+        "intent": "Freezer not working",
+        "entities": []
+    },
+    {
+        "text": "preciso trocar minha geladeira",
+        "intent": "Freezer not working",
+        "entities": []
+    },
+    {
+        "text": "minha geladeita ta com problema",
+        "intent": "Freezer not working",
+        "entities": []
+    },
+    {
+        "text": "O entregador foi grosso",
+        "intent": "Delivery complaint",
+        "entities": []
+    },
+    {
+        "text": "O entregador foi mal educado",
+        "intent": "Delivery complaint",
+        "entities": []
+    },
+    {
+        "text": "o motorista foi grosso",
+        "intent": "Delivery complaint",
+        "entities": []
+    },
+    {
+        "text": "o motorista foi mal educado",
+        "intent": "Delivery complaint",
+        "entities": []
+    },
+    {
+        "text": "o entregador trocou minha cerveja por uma vazia",
+        "intent": "Delivery complaint",
+        "entities": []
+    },
+    {
+        "text": "entregador está arrumando confusão com os funcionários",
+        "intent": "Delivery complaint",
+        "entities": []
+    },
+    {
+        "text": "entregador brigando com funcionários",
+        "intent": "Delivery complaint",
+        "entities": []
+    },
+    {
+        "text": "motorista não deixou as mercadorias",
+        "intent": "Delivery complaint",
+        "entities": []
+    },
+    {
+        "text": "motorista mentiu",
+        "intent": "Delivery complaint",
+        "entities": []
+    },
+    {
+        "text": "motorista falou que o estabelecimento estava fechado e não estava",
+        "intent": "Delivery complaint",
+        "entities": []
+    },
+    {
+        "text": "entregador fala que vai retornar e não retorna",
+        "intent": "Delivery complaint",
+        "entities": []
+    },
+    {
+        "text": "entregador mentiu",
+        "intent": "Delivery complaint",
+        "entities": []
+    },
+    {
+        "text": "o motorista não quis entregar os produtos",
+        "intent": "Delivery complaint",
+        "entities": []
+    },
+    {
+        "text": "motorista foi embora sem fazer a entrega",
+        "intent": "Delivery complaint",
+        "entities": []
+    },
+    {
+        "text": "o motorista roubou minha cerveja",
+        "intent": "Delivery complaint",
+        "entities": []
+    },
+    {
+        "text": "o motorista sujou meu bar",
+        "intent": "Delivery complaint",
+        "entities": []
+    },
+    {
+        "text": "o motorista está fedendo",
+        "intent": "Delivery complaint",
+        "entities": []
+    },
+    {
+        "text": "entregador mal educado",
+        "intent": "Delivery complaint",
+        "entities": []
+    },
+    {
+        "text": "reclamação sobre postura do entregador",
+        "intent": "Delivery complaint",
+        "entities": []
+    },
+    {
+        "text": "Postura do entregador",
+        "intent": "Delivery complaint",
+        "entities": []
+    },
+    {
+        "text": "Já abri chamado e não foi resolvido",
+        "intent": "Ticket Status",
+        "entities": []
+    },
+    {
+        "text": "Meu chamado não foi atendido",
+        "intent": "Ticket Status",
+        "entities": []
+    },
+    {
+        "text": "Será que a Ambev conseguiria enviar o técnico ainda hoje",
+        "intent": "Ticket Status",
+        "entities": []
+    },
+    {
+        "text": "Tem como vc ver como está um chamado aí",
+        "intent": "Ticket Status",
+        "entities": []
+    },
+    {
+        "text": "Preciso verificar os chamados",
+        "intent": "Ticket Status",
+        "entities": []
+    },
+    {
+        "text": "Estou aguardando reparo em equipamento de refrigeração de cerveja",
+        "intent": "Ticket Status",
+        "entities": []
+    },
+    {
+        "text": "Foi agendado assistência para hoje e não fui atendida",
+        "intent": "Ticket Status",
+        "entities": []
+    },
+    {
+        "text": "estou aguardando arrumar a geladeira",
+        "intent": "Ticket Status",
+        "entities": []
+    },
+    {
+        "text": "Pode me informar se o técnico tem previsão para passar aqui hoje?",
+        "intent": "Ticket Status",
+        "entities": []
+    },
+    {
+        "text": "Não vieram arrumar o freezer ainda",
+        "intent": "Ticket Status",
+        "entities": []
+    },
+    {
+        "text": "Gostaria de saber se vem alguém hoje consertar meu frizer",
+        "intent": "Ticket Status",
+        "entities": []
+    },
+    {
+        "text": "Quando vao vim arrumar?",
+        "intent": "Ticket Status",
+        "entities": []
+    },
+    {
+        "text": "Gostaria de saber resposta do protocolo",
+        "intent": "Ticket Status",
+        "entities": []
+    },
+    {
+        "text": "Gostaria de saber a respeito da minha solicitação",
+        "intent": "Ticket Status",
+        "entities": []
+    },
+    {
+        "text": "Eu fiz um chamado assistência técnica",
+        "intent": "Ticket Status",
+        "entities": []
+    },
+    {
+        "text": "Foi concluido o chamado?",
+        "intent": "Ticket Status",
+        "entities": []
+    },
+    {
+        "text": "andamento do protocolo",
+        "intent": "Ticket Status",
+        "entities": []
+    },
+    {
+        "text": "Gostaria de consultar um protocolo",
+        "intent": "Ticket Status",
+        "entities": []
+    },
+    {
+        "text": "Abri um protocolo",
+        "intent": "Ticket Status",
+        "entities": []
+    },
+    {
+        "text": "Gostaria de saber se técnico irá fazer o reparo da geladeira hoje",
+        "intent": "Ticket Status",
+        "entities": []
+    },
+    {
+        "text": "que horário o vocês vão vim arrumar a frizer ?",
+        "intent": "Ticket Status",
+        "entities": []
+    },
+    {
+        "text": "Então eu liguei e estou esperando dois dias a visita técnica",
+        "intent": "Ticket Status",
+        "entities": []
+    },
+    {
+        "text": "Tenho um chamado aberto. Quero saber quando irão solucionar meu problema",
+        "intent": "Ticket Status",
+        "entities": []
+    },
+    {
+        "text": "Queria consultar um chamado",
+        "intent": "Ticket Status",
+        "entities": []
+    },
+    {
+        "text": "Quando o técnico vem",
+        "intent": "Ticket Status",
+        "entities": []
+    },
+    {
+        "text": "Tenho um técnico agendado para hoje",
+        "intent": "Ticket Status",
+        "entities": []
+    },
+    {
+        "text": "Chamados não atendidos",
+        "intent": "Ticket Status",
+        "entities": []
+    },
+    {
+        "text": "Tenho um protocolo em aberto",
+        "intent": "Ticket Status",
+        "entities": []
+    },
+    {
+        "text": "consultar um protocolo",
+        "intent": "Ticket Status",
+        "entities": []
+    },
+    {
+        "text": "Chamado não atendido",
+        "intent": "Ticket Status",
+        "entities": []
+    },
+    {
+        "text": "Quando vcs vão vim arrumar minha geladeira",
+        "intent": "Ticket Status",
+        "entities": []
+    },
+    {
+        "text": "falaram que ia vir ontem aqui arrumar o refrigerador e até agora vocês não vieram",
+        "intent": "Ticket Status",
+        "entities": []
+    },
+    {
+        "text": "Como está meu chamado?",
+        "intent": "Ticket Status",
+        "entities": []
+    },
+    {
+        "text": "Status de Chamado",
+        "intent": "Ticket Status",
+        "entities": []
+    },
+    {
+        "text": "tem uma posição referente ao chamado?",
+        "intent": "Ticket Status",
+        "entities": []
+    },
+    {
+        "text": "solução pro meu chamado",
+        "intent": "Ticket Status",
+        "entities": []
+    },
+    {
+        "text": "Gostaria de saber o resultado do chamado",
+        "intent": "Ticket Status",
+        "entities": []
+    },
+    {
+        "text": "qual situação do meu chamado",
+        "intent": "Ticket Status",
+        "entities": []
+    },
+    {
+        "text": "quero consultar meu chamado",
+        "intent": "Ticket Status",
+        "entities": []
+    },
+    {
+        "text": "quero informações sobre meu chamado",
+        "intent": "Ticket Status",
+        "entities": []
+    },
+    {
+        "text": "preciso de infos sobre meu chamado",
+        "intent": "Ticket Status",
+        "entities": []
+    },
+    {
+        "text": "o vendedor foi rude",
+        "intent": "Bad SP Behavior",
+        "entities": []
+    },
+    {
+        "text": "vendedor prometeu bonificação e não recebi",
+        "intent": "Bad SP Behavior",
+        "entities": []
+    },
+    {
+        "text": "vendedor colocou produto a mais no meu pedido",
+        "intent": "Bad SP Behavior",
+        "entities": []
+    },
+    {
+        "text": "o vendedor foi grosso",
+        "intent": "Bad SP Behavior",
+        "entities": []
+    },
+    {
+        "text": "o vendedor está arrumando confusão com os funcionários",
+        "intent": "Bad SP Behavior",
+        "entities": []
+    },
+    {
+        "text": "o vendedor brigando com os funcionários",
+        "intent": "Bad SP Behavior",
+        "entities": []
+    },
+    {
+        "text": "o vendedor mentiu",
+        "intent": "Bad SP Behavior",
+        "entities": []
+    },
+    {
+        "text": "vendedor falou que o estabelecimento estava fechado e não estava",
+        "intent": "Bad SP Behavior",
+        "entities": []
+    },
+    {
+        "text": "vendedor falou que iria retornar e não retorna",
+        "intent": "Bad SP Behavior",
+        "entities": []
+    },
+    {
+        "text": "vendedor sujou meu bar",
+        "intent": "Bad SP Behavior",
+        "entities": []
+    },
+    {
+        "text": "vendedor mau educado",
+        "intent": "Bad SP Behavior",
+        "entities": []
+    },
+    {
+        "text": "tenho uma reclamação sobre a postura do meu vendedor",
+        "intent": "Bad SP Behavior",
+        "entities": []
+    },
+    {
+        "text": "vendedor esta fedendo",
+        "intent": "Bad SP Behavior",
+        "entities": []
+    },
+    {
+        "text": "vendedor estava fedendo",
+        "intent": "Bad SP Behavior",
+        "entities": []
+    },
+    {
+        "text": "vendedor foi rude",
+        "intent": "Bad SP Behavior",
+        "entities": []
+    },
+    {
+        "text": "postura do vde",
+        "intent": "Bad SP Behavior",
+        "entities": []
+    },
+    {
+        "text": "postura do vdi",
+        "intent": "Bad SP Behavior",
+        "entities": []
+    },
+    {
+        "text": "postura do vendedor",
+        "intent": "Bad SP Behavior",
+        "entities": []
+    },
+    {
+        "text": "oi",
+        "intent": "personalization",
+        "entities": []
+    },
+    {
+        "text": "ola",
+        "intent": "personalization",
+        "entities": []
+    },
+    {
+        "text": "oie",
+        "intent": "personalization",
+        "entities": []
+    },
+    {
+        "text": "bondia",
+        "intent": "personalization",
+        "entities": []
+    },
+    {
+        "text": "bom dia",
+        "intent": "personalization",
+        "entities": []
+    },
+    {
+        "text": "bomdia",
+        "intent": "personalization",
+        "entities": []
+    },
+    {
+        "text": "oiiiiii",
+        "intent": "personalization",
+        "entities": []
+    },
+    {
+        "text": "boa tarde",
+        "intent": "personalization",
+        "entities": []
+    },
+    {
+        "text": "boa tatde",
+        "intent": "personalization",
+        "entities": []
+    },
+    {
+        "text": "Oieee",
+        "intent": "personalization",
+        "entities": []
+    },
+    {
+        "text": "oiii",
+        "intent": "personalization",
+        "entities": []
+    },
+    {
+        "text": "oii",
+        "intent": "personalization",
+        "entities": []
+    },
+    {
+        "text": "bia tarde",
+        "intent": "personalization",
+        "entities": []
+    },
+    {
+        "text": "Bom dia!!!!",
+        "intent": "personalization",
+        "entities": []
+    },
+    {
+        "text": "opa",
+        "intent": "personalization",
+        "entities": []
+    },
+    {
+        "text": "Ola",
+        "intent": "personalization",
+        "entities": []
+    },
+    {
+        "text": " quero falar com a Cervejaria Ambev por WhatsApp!",
+        "intent": "personalization",
+        "entities": []
+    },
+    {
+        "text": "olá",
+        "intent": "personalization",
+        "entities": []
+    },
+    {
+        "text": "Boa noite",
+        "intent": "personalization",
+        "entities": []
+    },
+    {
+        "text": "Outros assuntos",
+        "intent": "others",
+        "entities": []
+    },
+    {
+        "text": "outros",
+        "intent": "others",
+        "entities": []
+    },
+    {
+        "text": "outra opção",
+        "intent": "others",
+        "entities": []
+    },
+    {
+        "text": "outras opções",
+        "intent": "others",
+        "entities": []
+    },
+    {
+        "text": "outra opcao",
+        "intent": "others",
+        "entities": []
+    },
+    {
+        "text": "otros assuntos",
+        "intent": "others",
+        "entities": []
+    },
+    {
+        "text": "manutenção em meu equipamento",
+        "intent": "cooler dismbiguation",
+        "entities": []
+    },
+    {
+        "text": "manutenção no meu equipamento",
+        "intent": "cooler dismbiguation",
+        "entities": []
+    },
+    {
+        "text": "manutenção na minha máquina",
+        "intent": "cooler dismbiguation",
+        "entities": []
+    },
+    {
+        "text": "manutenção em minha máquina",
+        "intent": "cooler dismbiguation",
+        "entities": []
+    },
+    {
+        "text": "ajuda com minha maquina",
+        "intent": "cooler dismbiguation",
+        "entities": []
+    },
+    {
+        "text": "ajuda com meu equipamento",
+        "intent": "cooler dismbiguation",
+        "entities": []
+    },
+    {
+        "text": "ajuda com minha máquina",
+        "intent": "cooler dismbiguation",
+        "entities": []
+    },
+    {
+        "text": "meu equipamento quebrou",
+        "intent": "cooler dismbiguation",
+        "entities": []
+    },
+    {
+        "text": "meu equipamento está com defeito",
+        "intent": "cooler dismbiguation",
+        "entities": []
+    },
+    {
+        "text": "meu equipamento não está funcionando",
+        "intent": "cooler dismbiguation",
+        "entities": []
+    },
+    {
+        "text": "minha máquina quebrou",
+        "intent": "cooler dismbiguation",
+        "entities": []
+    },
+    {
+        "text": "minha máquina não está funcionando",
+        "intent": "cooler dismbiguation",
+        "entities": []
+    },
+    {
+        "text": "minha máquina está com defeito",
+        "intent": "cooler dismbiguation",
+        "entities": []
+    },
+    {
+        "text": "Minha máquina está com problema",
+        "intent": "cooler dismbiguation",
+        "entities": []
+    },
+    {
+        "text": "preciso trocar um freezer",
+        "intent": "cooler dismbiguation",
+        "entities": []
+    },
+    {
+        "text": "preciso trocar uma geladeira",
+        "intent": "cooler dismbiguation",
+        "entities": []
+    },
+    {
+        "text": "preciso trocar um equipamento",
+        "intent": "cooler dismbiguation",
+        "entities": []
+    },
+    {
+        "text": "troca de equipamento",
+        "intent": "cooler dismbiguation",
+        "entities": []
+    },
+    {
+        "text": "troca de geladeira",
+        "intent": "cooler dismbiguation",
+        "entities": []
+    },
+    {
+        "text": "troca de frizer",
+        "intent": "cooler dismbiguation",
+        "entities": []
+    },
+    {
+        "text": "meu nome não é esse",
+        "intent": "this is not my name",
+        "entities": []
+    },
+    {
+        "text": "este não é meu nome",
+        "intent": "this is not my name",
+        "entities": []
+    },
+    {
+        "text": "meu nome está errado",
+        "intent": "this is not my name",
+        "entities": []
+    },
+    {
+        "text": "esse nome não é meu",
+        "intent": "this is not my name",
+        "entities": []
+    },
+    {
+        "text": "pq meu nome está errado?",
+        "intent": "this is not my name",
+        "entities": []
+    },
+    {
+        "text": "quem é essa pessoa?",
+        "intent": "this is not my name",
+        "entities": []
+    },
+    {
+        "text": "eae",
+        "intent": "test",
+        "entities": []
+    },
+    {
+        "text": "quero alugar uma geladeira",
+        "intent": "Cooler Solicitation",
+        "entities": []
+    },
+    {
+        "text": "como faço para alugar uma geladeira?",
+        "intent": "Cooler Solicitation",
+        "entities": []
+    },
+    {
+        "text": "o q preciso fazer para ter uma geladeira?",
+        "intent": "Cooler Solicitation",
+        "entities": []
+    },
+    {
+        "text": "quero ter uma geladeira",
+        "intent": "Cooler Solicitation",
+        "entities": []
+    },
+    {
+        "text": "como faço pra ter uma geladeira?",
+        "intent": "Cooler Solicitation",
+        "entities": []
+    },
+    {
+        "text": "pedir uma geladeira",
+        "intent": "Cooler Solicitation",
+        "entities": []
+    },
+    {
+        "text": "pedir uma geladeira nova",
+        "intent": "Cooler Solicitation",
+        "entities": []
+    },
+    {
+        "text": "geladeira de cerveja",
+        "intent": "Cooler Solicitation",
+        "entities": []
+    },
+    {
+        "text": "quero alugar um refrigerador",
+        "intent": "Cooler Solicitation",
+        "entities": []
+    },
+    {
+        "text": "como faço para alugar um refrigerador?",
+        "intent": "Cooler Solicitation",
+        "entities": []
+    },
+    {
+        "text": "o q preciso fazer pra ter um refrigerador?",
+        "intent": "Cooler Solicitation",
+        "entities": []
+    },
+    {
+        "text": "como faço pra ter um refrigerador?",
+        "intent": "Cooler Solicitation",
+        "entities": []
+    },
+    {
+        "text": "como posso ter um refrigerador?",
+        "intent": "Cooler Solicitation",
+        "entities": []
+    },
+    {
+        "text": "pedir um refrigerador",
+        "intent": "Cooler Solicitation",
+        "entities": []
+    },
+    {
+        "text": "pedir um refrigerador novo",
+        "intent": "Cooler Solicitation",
+        "entities": []
+    },
+    {
+        "text": "quero ter um refrigerador",
+        "intent": "Cooler Solicitation",
+        "entities": []
+    },
+    {
+        "text": "como posso ter uma geladeira?",
+        "intent": "Cooler Solicitation",
+        "entities": []
+    },
+    {
+        "text": "alugar uma geladeira",
+        "intent": "Cooler Solicitation",
+        "entities": []
+    },
+    {
+        "text": "alugar um refrigerador",
+        "intent": "Cooler Solicitation",
+        "entities": []
+    },
+    {
+        "text": "Com quem eu solicito geladeira",
+        "intent": "Cooler Solicitation",
+        "entities": []
+    },
+    {
+        "text": "quero uma nova geladeira",
+        "intent": "Cooler Solicitation",
+        "entities": []
+    },
+    {
+        "text": "quero um novo refrigerador",
+        "intent": "Cooler Solicitation",
+        "entities": []
+    },
+    {
+        "text": "aderir uma geladeira",
+        "intent": "Cooler Solicitation",
+        "entities": []
+    },
+    {
+        "text": "aderir um freezer",
+        "intent": "Cooler Solicitation",
+        "entities": []
+    },
+    {
+        "text": "novo contrato de geladeira",
+        "intent": "Cooler Solicitation",
+        "entities": []
+    },
+    {
+        "text": "contrato refrigerador",
+        "intent": "Cooler Solicitation",
+        "entities": []
+    },
+    {
+        "text": "emprestimo refrigerador",
+        "intent": "Cooler Solicitation",
+        "entities": []
+    },
+    {
+        "text": "quero um refrigerador",
+        "intent": "Cooler Solicitation",
+        "entities": []
+    },
+    {
+        "text": "adqerir novo refrigerador",
+        "intent": "Cooler Solicitation",
+        "entities": []
+    },
+    {
+        "text": "novo refrigerador",
+        "intent": "Cooler Solicitation",
+        "entities": []
+    },
+    {
+        "text": "emprestimo de geladeira",
+        "intent": "Cooler Solicitation",
+        "entities": []
+    },
+    {
+        "text": "emprestimo de nova geladeira",
+        "intent": "Cooler Solicitation",
+        "entities": []
+    },
+    {
+        "text": "adquerir nova geladeira",
+        "intent": "Cooler Solicitation",
+        "entities": []
+    },
+    {
+        "text": "gostaria de uma nova geladeira",
+        "intent": "Cooler Solicitation",
+        "entities": []
+    },
+    {
+        "text": "não sei",
+        "intent": "No data",
+        "entities": []
+    },
+    {
+        "text": "nao sei",
+        "intent": "No data",
+        "entities": []
+    },
+    {
+        "text": "sei lá",
+        "intent": "No data",
+        "entities": []
+    },
+    {
+        "text": "sei la",
+        "intent": "No data",
+        "entities": []
+    },
+    {
+        "text": "nao lembro",
+        "intent": "No data",
+        "entities": []
+    },
+    {
+        "text": "nao achei",
+        "intent": "No data",
+        "entities": []
+    },
+    {
+        "text": "não achei",
+        "intent": "No data",
+        "entities": []
+    },
+    {
+        "text": "não tenho",
+        "intent": "No data",
+        "entities": []
+    },
+    {
+        "text": "nem idéia",
+        "intent": "No data",
+        "entities": []
+    },
+    {
+        "text": "Queria saber se meu pedido ainda vai demorar muito",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "Tem pedido pra hoje?",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "Pode confirmar minha entrega pra hoje por favor",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "Gostaria de saber se meu pedido saiu",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "Tenho entrega hoje?",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "cade meu pedido",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "Quando Vou receber meu pedido ?",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "Eu tenho pedido pra hoje?",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "Eu tenho pedido p hoje?",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "Meu pedido tá na rua?",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "Oque está acontecendo com as entregas",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "Gostaria de saber se o meu pedido vai ser entregue",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "Você pode conferir se existe algum pedido para ser entregue hoje para mim?",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "Eu tenho pedido para amanhã",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "gostaria de saber se meu pedido vai ser entregue hj?",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "me dê os detalhes da data da entrega",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "Fiz um pedido gostaria de confirmar se me entrega hoje?",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "Minha entrega ainda nao chegou",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "Gostaria de saber se meu pedido está na rua",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "Gostaria de saber se meu pedido está na rua pra ser entregue",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "Quero saber aonde tá a minha entrega",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "Nao chegou a mercadoria",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "quero saber se tem algum pedido meu na rua para entregar",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "estamos aguardando entrega desde cedo",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "Preciso saber se vai vir algum pedido para mim hoje",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "quero saber se vai entregar hoje",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "gostaria de saber se está tudo ok com meus pedidos",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "Quero saber se estão vindo as mercadorias",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "Quero saber se vai chegar mercadorias hoje",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "gostaria de saber sobre minha entrega",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "Fiz pedido ontem e não chegou",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "onde está meu pedido?",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "pode me confirmar se tem um pedido para a entrega amanhã?",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "Vai entregar meu pedido hoje?",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "Preciso saber se tenho pedido para ser entregue hoje",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "Quero ver status do meu pedido",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "Quero saber sobre meu pedido",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "Preciso verificar meu pedido",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "Quero saber se meu pedido vai vim amanhã",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "Teria como verificar se meus pedido vão ser entregue hj?",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "Pedidos para a amanhã",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "Vão entregar meu pedido?",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "gostaria de consultar informacoes sobre meu pedido",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "gostaria de saber onde estão meus produtos",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "status do pedido",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "quero saber da entrega do pedido",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "onde está minha mercadoria",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "onde esta minha entrega",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "meu pedido esta a caminho?",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "minha entrega esta a caminho?",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "info pedido",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "info entrega",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "como estão minhas entregas?",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "onde está meu produto?",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "tenho pedido para esta semana?",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "cade meu pedido?",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "qual previsão para entrega do meu pedido?",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "qual previsão para entrega do meu produto?",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "qual previsão da minha entrega?",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "qual status do pedido",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "qual status da entrega",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "quando vou receber meus produtos?",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "vai vim hoje atarde?",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "Eu fiz um pedido",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "Eu fiz um pedido e não recebi",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "informações sobre um pedido",
+        "intent": "Order status",
+        "entities": []
+    },
+    {
+        "text": "abrir chamado de geladeira",
+        "intent": "Open ticket",
+        "entities": []
+    },
+    {
+        "text": "abrir chamado",
+        "intent": "Open ticket",
+        "entities": []
+    },
+    {
+        "text": "preciso abrir um chamado",
+        "intent": "Open ticket",
+        "entities": []
+    },
+    {
+        "text": "abrir chamado de equipamento",
+        "intent": "Open ticket",
+        "entities": []
+    },
+    {
+        "text": "abrir chamado de entregador",
+        "intent": "Open ticket",
+        "entities": []
+    },
+    {
+        "text": "abrir chamado de vendedor",
+        "intent": "Open ticket",
+        "entities": []
+    },
+    {
+        "text": "abrir um novo chamado",
+        "intent": "Open ticket",
+        "entities": []
+    },
+    {
+        "text": "quero abrir um novo",
+        "intent": "Open ticket",
+        "entities": []
+    },
+    {
+        "text": "abri um novo",
+        "intent": "Open ticket",
+        "entities": []
+    },
+    {
+        "text": "quero abrir um chamado",
+        "intent": "Open ticket",
+        "entities": []
+    },
+    {
+        "text": "novo chamado",
+        "intent": "Open ticket",
+        "entities": []
+    },
+    {
+        "text": "reclamação sobre entrega da minha geladeira",
+        "intent": "Open ticket",
+        "entities": []
+    },
+    {
+        "text": "reclamação sobre minha geladeira",
+        "intent": "Open ticket",
+        "entities": []
+    },
+    {
+        "text": "reclamação geladeira",
+        "intent": "Open ticket",
+        "entities": []
+    },
+    {
+        "text": "minha geladeira vai ser entregue",
+        "intent": "Open ticket",
+        "entities": []
+    },
+    {
+        "text": "entrega da minha geladeira",
+        "intent": "Open ticket",
+        "entities": []
+    },
+    {
+        "text": "Gostaria de fazer um chamado",
+        "intent": "Open ticket",
+        "entities": []
+    },
+    {
+        "text": "estou com problema em meu pedido",
+        "intent": "Order trouble",
+        "entities": []
+    },
+    {
+        "text": "estou tendo problemas com pedido",
+        "intent": "Order trouble",
+        "entities": []
+    },
+    {
+        "text": "meu pedido não chegou",
+        "intent": "Order trouble",
+        "entities": []
+    },
+    {
+        "text": "problemas com pedido",
+        "intent": "Order trouble",
+        "entities": []
+    },
+    {
+        "text": "problemas em pedido",
+        "intent": "Order trouble",
+        "entities": []
+    },
+    {
+        "text": "problema com pedido",
+        "intent": "Order trouble",
+        "entities": []
+    },
+    {
+        "text": "problema em pedido",
+        "intent": "Order trouble",
+        "entities": []
+    },
+    {
+        "text": "meu pedido está errado",
+        "intent": "Order trouble",
+        "entities": []
+    },
+    {
+        "text": "problema com chamado",
+        "intent": "Ticket trouble",
+        "entities": []
+    },
+    {
+        "text": "estou tendo problemas com chamado",
+        "intent": "Ticket trouble",
+        "entities": []
+    },
+    {
+        "text": "estou tendo problema com chamado",
+        "intent": "Ticket trouble",
+        "entities": []
+    },
+    {
+        "text": "problemas com chamado",
+        "intent": "Ticket trouble",
+        "entities": []
+    },
+    {
+        "text": "Cancelar chamado",
+        "intent": "Ticket trouble",
+        "entities": []
+    },
+    {
+        "text": "Amassado",
+        "intent": "Crumpled Equipment",
+        "entities": []
+    },
+    {
+        "text": "equipamento amassado",
+        "intent": "Crumpled Equipment",
+        "entities": []
+    },
+    {
+        "text": "amassou",
+        "intent": "Crumpled Equipment",
+        "entities": []
+    },
+    {
+        "text": "equipamento dando choque",
+        "intent": "Shock",
+        "entities": []
+    },
+    {
+        "text": "equipamento dando choqui",
+        "intent": "Shock",
+        "entities": []
+    },
+    {
+        "text": "choque",
+        "intent": "Shock",
+        "entities": []
+    },
+    {
+        "text": "shok",
+        "intent": "Shock",
+        "entities": []
+    },
+    {
+        "text": "shoque",
+        "intent": "Shock",
+        "entities": []
+    },
+    {
+        "text": "equipamento com shoke",
+        "intent": "Shock",
+        "entities": []
+    },
+    {
+        "text": "faltando peça",
+        "intent": "Missing Piece",
+        "entities": []
+    },
+    {
+        "text": "Peça Faltante",
+        "intent": "Missing Piece",
+        "entities": []
+    },
+    {
+        "text": "falta peça",
+        "intent": "Missing Piece",
+        "entities": []
+    },
+    {
+        "text": "ta faltando peça",
+        "intent": "Missing Piece",
+        "entities": []
+    },
+    {
+        "text": "pesa faltando",
+        "intent": "Missing Piece",
+        "entities": []
+    },
+    {
+        "text": "pesa faltante",
+        "intent": "Missing Piece",
+        "entities": []
+    },
+    {
+        "text": "pessa faltante",
+        "intent": "Missing Piece",
+        "entities": []
+    },
+    {
+        "text": "falta pessa",
+        "intent": "Missing Piece",
+        "entities": []
+    },
+    {
+        "text": "falta pesa",
+        "intent": "Missing Piece",
+        "entities": []
+    },
+    {
+        "text": "peça quebrada",
+        "intent": "Broken Piece",
+        "entities": []
+    },
+    {
+        "text": "quebrada",
+        "intent": "Broken Piece",
+        "entities": []
+    },
+    {
+        "text": "congelando as bebidas",
+        "intent": "Freezing the foods",
+        "entities": []
+    },
+    {
+        "text": "congela bebida",
+        "intent": "Freezing the foods",
+        "entities": []
+    },
+    {
+        "text": "congelando cerveja",
+        "intent": "Freezing the foods",
+        "entities": []
+    },
+    {
+        "text": "congelando as cervejas",
+        "intent": "Freezing the foods",
+        "entities": []
+    },
+    {
+        "text": "congelando as cerveja",
+        "intent": "Freezing the foods",
+        "entities": []
+    },
+    {
+        "text": "gelando as bebidas",
+        "intent": "Freezing the foods",
+        "entities": []
+    },
+    {
+        "text": "gelando as cervejas",
+        "intent": "Freezing the foods",
+        "entities": []
+    },
+    {
+        "text": "gelando a cerveja",
+        "intent": "Freezing the foods",
+        "entities": []
+    },
+    {
+        "text": "gelando cerveja",
+        "intent": "Freezing the foods",
+        "entities": []
+    },
+    {
+        "text": "gelando as cerveja",
+        "intent": "Freezing the foods",
+        "entities": []
+    },
+    {
+        "text": "ferrugi",
+        "intent": "Rusty equipment",
+        "entities": []
+    },
+    {
+        "text": "ferrujem",
+        "intent": "Rusty equipment",
+        "entities": []
+    },
+    {
+        "text": "ferruji",
+        "intent": "Rusty equipment",
+        "entities": []
+    },
+    {
+        "text": "ferrugem",
+        "intent": "Rusty equipment",
+        "entities": []
+    },
+    {
+        "text": "equipamento enferrujado",
+        "intent": "Rusty equipment",
+        "entities": []
+    },
+    {
+        "text": "ta tudo enferrujado",
+        "intent": "Rusty equipment",
+        "entities": []
+    },
+    {
+        "text": "ta cheio de ferrugem",
+        "intent": "Rusty equipment",
+        "entities": []
+    },
+    {
+        "text": "ta cheio de ferruji",
+        "intent": "Rusty equipment",
+        "entities": []
+    },
+    {
+        "text": "ferugem",
+        "intent": "Rusty equipment",
+        "entities": []
+    },
+    {
+        "text": "ferugi",
+        "intent": "Rusty equipment",
+        "entities": []
+    },
+    {
+        "text": "enferujado",
+        "intent": "Rusty equipment",
+        "entities": []
+    },
+    {
+        "text": "inferujado",
+        "intent": "Rusty equipment",
+        "entities": []
+    },
+    {
+        "text": "Geladeira enferrujada",
+        "intent": "Rusty equipment",
+        "entities": []
+    },
+    {
+        "text": "Sudação Formação de Agua",
+        "intent": "Water formation sweating",
+        "entities": []
+    },
+    {
+        "text": "Sudação",
+        "intent": "Water formation sweating",
+        "entities": []
+    },
+    {
+        "text": "Formação de Agua",
+        "intent": "Water formation sweating",
+        "entities": []
+    },
+    {
+        "text": "esquentando muito",
+        "intent": "Overheating",
+        "entities": []
+    },
+    {
+        "text": "ta muito quente",
+        "intent": "Overheating",
+        "entities": []
+    },
+    {
+        "text": "superaquece",
+        "intent": "Overheating",
+        "entities": []
+    },
+    {
+        "text": "superaquecimento",
+        "intent": "Overheating",
+        "entities": []
+    },
+    {
+        "text": "Vazamento de Agua",
+        "intent": "Water leak",
+        "entities": []
+    },
+    {
+        "text": "vazamento",
+        "intent": "Water leak",
+        "entities": []
+    },
+    {
+        "text": "vazamento de liquido",
+        "intent": "Water leak",
+        "entities": []
+    },
+    {
+        "text": "vazando agua",
+        "intent": "Water leak",
+        "entities": []
+    },
+    {
+        "text": "saindo agua",
+        "intent": "Water leak",
+        "entities": []
+    },
+    {
+        "text": "agua escorrendo",
+        "intent": "Water leak",
+        "entities": []
+    },
+    {
+        "text": "água escorrendo",
+        "intent": "Water leak",
+        "entities": []
+    },
+    {
+        "text": "vazamento de líquido",
+        "intent": "Water leak",
+        "entities": []
+    },
+    {
+        "text": "vazando água",
+        "intent": "Water leak",
+        "entities": []
+    },
+    {
+        "text": "saindo água",
+        "intent": "Water leak",
+        "entities": []
+    },
+    {
+        "text": "Trocar Cabos",
+        "intent": "Switch cables",
+        "entities": []
+    },
+    {
+        "text": "troca de cabos",
+        "intent": "Switch cables",
+        "entities": []
+    },
+    {
+        "text": "trocar fiação",
+        "intent": "Switch cables",
+        "entities": []
+    },
+    {
+        "text": "troca de fiação",
+        "intent": "Switch cables",
+        "entities": []
+    },
+    {
+        "text": "trocar os fios",
+        "intent": "Switch cables",
+        "entities": []
+    },
+    {
+        "text": "trocar fios",
+        "intent": "Switch cables",
+        "entities": []
+    },
+    {
+        "text": "troca de fio",
+        "intent": "Switch cables",
+        "entities": []
+    },
+    {
+        "text": "troca fio",
+        "intent": "Switch cables",
+        "entities": []
+    },
+    {
+        "text": "trocar os fio",
+        "intent": "Switch cables",
+        "entities": []
+    },
+    {
+        "text": "Cabos Expostos",
+        "intent": "Switch cables",
+        "entities": []
+    },
+    {
+        "text": "Minha geladeira não desliga",
+        "intent": "Freezer does not turn off",
+        "entities": []
+    },
+    {
+        "text": "geladeira não está desligando",
+        "intent": "Freezer does not turn off",
+        "entities": []
+    },
+    {
+        "text": "não desliga",
+        "intent": "Freezer does not turn off",
+        "entities": []
+    },
+    {
+        "text": "geladeira não quer desligar",
+        "intent": "Freezer does not turn off",
+        "entities": []
+    },
+    {
+        "text": "minha frezzer nao desliga",
+        "intent": "Freezer does not turn off",
+        "entities": []
+    },
+    {
+        "text": "frezzer não desliga",
+        "intent": "Freezer does not turn off",
+        "entities": []
+    },
+    {
+        "text": "preciso de um suporte de prateleira",
+        "intent": "shelf support",
+        "entities": []
+    },
+    {
+        "text": "prateleira",
+        "intent": "shelf support",
+        "entities": []
+    },
+    {
+        "text": "novas prateleiras",
+        "intent": "shelf support",
+        "entities": []
+    },
+    {
+        "text": "suporte de prateleira",
+        "intent": "shelf support",
+        "entities": []
+    },
+    {
+        "text": "O puxador da minha geladeira esta quebrado",
+        "intent": "handle",
+        "entities": []
+    },
+    {
+        "text": "trocar o puxador",
+        "intent": "handle",
+        "entities": []
+    },
+    {
+        "text": "puxador",
+        "intent": "handle",
+        "entities": []
+    },
+    {
+        "text": "o puchador esta quebrado",
+        "intent": "handle",
+        "entities": []
+    },
+    {
+        "text": "trocar o puchador",
+        "intent": "handle",
+        "entities": []
+    },
+    {
+        "text": "trocar o pochador",
+        "intent": "handle",
+        "entities": []
+    },
+    {
+        "text": "trocar o poxador",
+        "intent": "handle",
+        "entities": []
+    },
+    {
+        "text": "grades da geladeira",
+        "intent": "grill",
+        "entities": []
+    },
+    {
+        "text": "grade da geladeira",
+        "intent": "grill",
+        "entities": []
+    },
+    {
+        "text": "trocar as grades",
+        "intent": "grill",
+        "entities": []
+    },
+    {
+        "text": "precisa trocar as grades",
+        "intent": "grill",
+        "entities": []
+    },
+    {
+        "text": "grade",
+        "intent": "grill",
+        "entities": []
+    },
+    {
+        "text": "grade de geladeira",
+        "intent": "grill",
+        "entities": []
+    },
+    {
+        "text": "adesivos rasgado",
+        "intent": "ripped stickers",
+        "entities": []
+    },
+    {
+        "text": "propaganda rasgado",
+        "intent": "ripped stickers",
+        "entities": []
+    },
+    {
+        "text": "o adesivo rasgou",
+        "intent": "ripped stickers",
+        "entities": []
+    },
+    {
+        "text": "ta tudo ragasdo",
+        "intent": "ripped stickers",
+        "entities": []
+    },
+    {
+        "text": "rasgado",
+        "intent": "ripped stickers",
+        "entities": []
+    },
+    {
+        "text": "adesivo",
+        "intent": "ripped stickers",
+        "entities": []
+    },
+    {
+        "text": "adesivos",
+        "intent": "ripped stickers",
+        "entities": []
+    },
+    {
+        "text": "não ligou",
+        "intent": "did not call",
+        "entities": []
+    },
+    {
+        "text": "não me ligou",
+        "intent": "did not call",
+        "entities": []
+    },
+    {
+        "text": "ele não me ligou hj",
+        "intent": "did not call",
+        "entities": []
+    },
+    {
+        "text": "não tive contato hj",
+        "intent": "did not call",
+        "entities": []
+    },
+    {
+        "text": "Seu vendedor não te ligou na data programada",
+        "intent": "did not call",
+        "entities": []
+    },
+    {
+        "text": "mais contato",
+        "intent": "more contact",
+        "entities": []
+    },
+    {
+        "text": "mais ligações",
+        "intent": "more contact",
+        "entities": []
+    },
+    {
+        "text": "me liguem mais vezes",
+        "intent": "more contact",
+        "entities": []
+    },
+    {
+        "text": "mais vezes",
+        "intent": "more contact",
+        "entities": []
+    },
+    {
+        "text": "quero uma frequencia maior de ligações",
+        "intent": "more contact",
+        "entities": []
+    },
+    {
+        "text": "quero mais ligações",
+        "intent": "more contact",
+        "entities": []
+    },
+    {
+        "text": "Gostaria de maior frequência de ligações para fazer pedidos",
+        "intent": "more contact",
+        "entities": []
+    },
+    {
+        "text": "mais frequência",
+        "intent": "more contact",
+        "entities": []
+    },
+    {
+        "text": "maior frequência",
+        "intent": "more contact",
+        "entities": []
+    },
+    {
+        "text": "nunca recebeu uma ligação",
+        "intent": "never received a call",
+        "entities": []
+    },
+    {
+        "text": "nunca recebi ligação",
+        "intent": "never received a call",
+        "entities": []
+    },
+    {
+        "text": "nunca ninguém me ligou",
+        "intent": "never received a call",
+        "entities": []
+    },
+    {
+        "text": "Nunca recebeu uma ligação da equipe de vendas",
+        "intent": "never received a call",
+        "entities": []
+    },
+    {
+        "text": "ninguém nunca me ligou",
+        "intent": "never received a call",
+        "entities": []
+    },
+    {
+        "text": "jamais recebi uma ligação",
+        "intent": "never received a call",
+        "entities": []
+    },
+    {
+        "text": "jamais alguém me ligou",
+        "intent": "never received a call",
+        "entities": []
+    },
+    {
+        "text": "nunca me ligou",
+        "intent": "never received a call",
+        "entities": []
+    },
+    {
+        "text": "nunca ligou",
+        "intent": "never received a call",
+        "entities": []
+    },
+    {
+        "text": "nunca",
+        "intent": "never received a call",
+        "entities": []
+    },
+    {
+        "text": "não comparecer",
+        "intent": "not attend",
+        "entities": []
+    },
+    {
+        "text": "não compareceu",
+        "intent": "not attend",
+        "entities": []
+    },
+    {
+        "text": "não veio hj",
+        "intent": "not attend",
+        "entities": []
+    },
+    {
+        "text": "não apareceu hj",
+        "intent": "not attend",
+        "entities": []
+    },
+    {
+        "text": "não veio",
+        "intent": "not attend",
+        "entities": []
+    },
+    {
+        "text": "não me visitou",
+        "intent": "not attend",
+        "entities": []
+    },
+    {
+        "text": "não teve aqui",
+        "intent": "not attend",
+        "entities": []
+    },
+    {
+        "text": "não esteve aqui",
+        "intent": "not attend",
+        "entities": []
+    },
+    {
+        "text": "Seu vendedor não compareceu à última visita programada",
+        "intent": "not attend",
+        "entities": []
+    },
+    {
+        "text": "não veio na ultima visita",
+        "intent": "not attend",
+        "entities": []
+    },
+    {
+        "text": "o vendedor não veio no dia",
+        "intent": "not attend",
+        "entities": []
+    },
+    {
+        "text": "nao veio no dia",
+        "intent": "not attend",
+        "entities": []
+    },
+    {
+        "text": "mais visitas",
+        "intent": "more visits",
+        "entities": []
+    },
+    {
+        "text": "venha mais vezes",
+        "intent": "more visits",
+        "entities": []
+    },
+    {
+        "text": "ser atendido mais vezes",
+        "intent": "more visits",
+        "entities": []
+    },
+    {
+        "text": "vendedor apareça mais",
+        "intent": "more visits",
+        "entities": []
+    },
+    {
+        "text": "aparecer mais vezes",
+        "intent": "more visits",
+        "entities": []
+    },
+    {
+        "text": "gostaria de maior frequencia de visitas",
+        "intent": "more visits",
+        "entities": []
+    },
+    {
+        "text": "Gostaria de maior frequência de visitas",
+        "intent": "more visits",
+        "entities": []
+    },
+    {
+        "text": "mais vezes",
+        "intent": "more visits",
+        "entities": []
+    },
+    {
+        "text": "mais frequência",
+        "intent": "more visits",
+        "entities": []
+    },
+    {
+        "text": "maior frequência",
+        "intent": "more visits",
+        "entities": []
+    },
+    {
+        "text": "nunca visitado",
+        "intent": "never visited",
+        "entities": []
+    },
+    {
+        "text": "nunca recebi uma visita",
+        "intent": "never visited",
+        "entities": []
+    },
+    {
+        "text": "nunca fui visitado pela equipe de vendas",
+        "intent": "never visited",
+        "entities": []
+    },
+    {
+        "text": "ninguém nunca veio aqui",
+        "intent": "never visited",
+        "entities": []
+    },
+    {
+        "text": "ninguem nunca veio aqui",
+        "intent": "never visited",
+        "entities": []
+    },
+    {
+        "text": "nunca tive visita",
+        "intent": "never visited",
+        "entities": []
+    },
+    {
+        "text": "jamais visitado",
+        "intent": "never visited",
+        "entities": []
+    },
+    {
+        "text": "jamais recebi uma visita",
+        "intent": "never visited",
+        "entities": []
+    },
+    {
+        "text": "jamais tive uma visita",
+        "intent": "never visited",
+        "entities": []
+    },
+    {
+        "text": "jamais alguém veio me visitar",
+        "intent": "never visited",
+        "entities": []
+    },
+    {
+        "text": "Seller doesn't visit",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "o vendedor não me liga",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "o vendedor não me ligou",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "o vendedor nao me visitou",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "Não tenho vendedor",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "Vendedor não passou",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "meu vendedor não me visita",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "vendedor não visitou",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "não veio o representante",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "o vendedor não veio",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "esperando a visita do vendedor",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "não veio fazer visita",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "estou sem visita",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "Eu presiso falar com vendedor",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "quero ser atendido por um vendedor",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "quero atendimento",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "quero um vendedor",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "quero que alguém venha me visitar",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "pede para o vendedor me ligar",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "pede para me ligar",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "quero que me liguem",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "quero falar com o vendedor",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "Preciso que um vendedor entre em contato comigo",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "Preciso receber ligação vendedor interno",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "o vendedor da área não me visita",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "não recebo visita do vendedor da área",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "não recebo visita do vendedor da area",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "Gostaria de receber a visita de um vendedor para realizar meu pedido",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "Preciso do meu vendedor",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "Quero saber quem é  meu vendedor",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "não recebi visita do vendedor hoje",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "Vendedor por favor",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "Precisando de um vendedor entrar em contato para fazer pedido",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "Precisando que o vendedor entre em contato",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "Meu vendedor não aparece",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "vendedor não aparece",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "não recebi a visita do vendedor",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "quero o telefone de um vendedor",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "qual e o vendedor ambev q atende a minha area",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "qual e o vendedor ambev que atende a minha area",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "trocar de vendedor",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "troca de vendedor",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "Quero trocar de vendedor",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "preciso do contato do vendedor",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "precisando do contato do vendedor",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "Preciso da visita  do vendedor",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "Queremos q o vendedor Alexandre entre em contato",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "vendedor não passou mais aqui",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "vendedor não passa mais aqui",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "contato do vendedor",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "voltar o vendedor",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "a vendedora não passou aqui",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "minha vendedora não me visita",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "não veio a representante",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "não tenho uma vendedora",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "não tenho vendedora",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "eu preciso falar com vendedora",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "quero ser atendido por uma vendedora",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "preciso de vendedor",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "I need a salesman",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "vendedor não ligou",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "vendedor não me ligou",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "meu vendedor não ligou",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "meu vendedor não liga",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "vendedor não liga",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "Estou precisando da visita do vendedor",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "Nenhum vendedor me atende",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "falar com um vendedor",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "Número de vendedor",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "Meu vendedor nao veio",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "localizar meu vendedor",
+        "intent": "vendedor nao visita",
+        "entities": []
+    },
+    {
+        "text": "outro pedido",
+        "intent": "other order",
+        "entities": []
+    },
+    {
+        "text": "meu pedido não é esse",
+        "intent": "other order",
+        "entities": []
+    },
+    {
+        "text": "não é esse pedido",
+        "intent": "other order",
+        "entities": []
+    },
+    {
+        "text": "não é esse",
+        "intent": "other order",
+        "entities": []
+    },
+    {
+        "text": "é outro",
+        "intent": "other order",
+        "entities": []
+    }
+]
